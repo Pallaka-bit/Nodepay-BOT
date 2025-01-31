@@ -10,7 +10,7 @@ from datetime import datetime
 from colorama import *
 import asyncio, time, json, os, uuid, pytz
 
-wita = pytz.timezone('Asia/Jakarta')
+wita = pytz.timezone('Asia/Makassar')
 
 class Nodepay:
     def __init__(self) -> None:
